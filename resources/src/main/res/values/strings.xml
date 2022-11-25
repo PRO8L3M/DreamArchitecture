@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DreamArchitecture</string>
+
+    <string name="text_plane_header">Samoloty</string>
+    <string name="text_car_header">Samochody</string>
+    <string name="text_motorcycle_header">Motocykle</string>
+</resources>
